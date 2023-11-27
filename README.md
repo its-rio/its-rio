@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @its-rio<br> 🔭 I’m currently studying Computer Application<br>🌱 I’m currently learning MERN, Angular, JAVA Back-end<br>💬 Ask me about React, Web dev., gsap<br>📫 How to reach me https://www.linkedin.com<br>👨‍💻 All of my projects are available at https://linktr.ee/itsrio01<br>📝 I regularly write articles on https://www.linkedin.com<br>📄 Know about my experiences https://www.linkedin.com<br>⚡ Fun fact I think I am funny😊.
+👋 Hi, I’m @its-rio<br> 🔭 I’m currently studying Computer Application<br>🌱 I’m currently learning MERN, Angular, JAVA Back-end<br>💬 Ask me about React, Web dev., gsap<br>📫 How to reach me https://www.linkedin.com<br>👨‍💻 All of my projects are available at https://linktr.ee/itsrio01<br>📝 I regularly write articles on https://www.linkedin.com<br>📄 Know about my experiences https://linktr.ee/itsrio01<br>⚡ Fun fact I think I am funny😊.
 
 
 ## 🌐 Socials:
